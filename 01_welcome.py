@@ -1,4 +1,4 @@
-#Program that asks the user name and print a message.
+# Program that asks the user name and print a message.
 
 name = input("What's your name? ")
 
